@@ -1,0 +1,233 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/G4tyjGPL/Untitled-1.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "✨ สมัครง่าย เล่นได้ทันที!",
+            "wrap": true,
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "แค่คลิกปุ่มด้านล่างเพื่อเลือกเมนูที่ต้องการ 💬",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "uri",
+              "label": "🔐 ทางเข้าเล่นหลัก",
+              "uri": "https://ufa8p.net/?openExternalBrowser=1"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "uri",
+              "label": "📝 สมัครสมาชิก",
+              "uri": "https://ufa8p.net/customer/register/BTSUI/?openExternalBrowser=1"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "body": { "backgroundColor": "#000000" },
+        "footer": { "backgroundColor": "#000000" }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/G4tyjGPL/Untitled-1.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "💸 รีวิวถอนจริง! รวดเร็วทุกยอด",
+            "wrap": true,
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "ดูรีวิวล่าสุดของผู้เล่นที่นี่เลยน้าา 👀",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "📋 รีวิวถอนล่าสุด",
+              "text": "รีวิวถอนล่าสุด"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "🎰 สล็อตแตกดี",
+              "text": "สล็อตแตกดี"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "🤝 ค่าคอมมิชชั่น",
+              "text": "ค่าคอมมิชชั่น"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "body": { "backgroundColor": "#000000" },
+        "footer": { "backgroundColor": "#000000" }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ibb.co/G4tyjGPL/Untitled-1.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📺 ไลฟ์สด & ทีเด็ดทุกวัน!",
+            "wrap": true,
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "อัปเดตจากกูรูตัวจริง ครบทุกวงการ 🎯",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "⚽ ทีเด็ดบอล",
+              "text": "ทีเด็ดบอล"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "🔢 หวยวันนี้",
+              "text": "หวย"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "🥊 ทีเด็ดมวย",
+              "text": "มวย"
+            },
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "message",
+              "label": "📺 ไลฟ์สด",
+              "text": "ไลฟ์สด"
+            },
+            "height": "sm"
+          }
+        ]
+      },
+      "styles": {
+        "body": { "backgroundColor": "#000000" },
+        "footer": { "backgroundColor": "#000000" }
+      }
+    }
+  ]
+}
